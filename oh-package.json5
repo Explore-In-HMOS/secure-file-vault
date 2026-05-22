@@ -1,0 +1,8 @@
+{
+  "modelVersion": "6.0.1",
+  "description": "Secure File Vault wearable sample app.",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

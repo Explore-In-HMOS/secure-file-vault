@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Secure File Vault wearable sample entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Secure File Vault launcher ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Secure File Vault"
+    }
+  ]
+}
